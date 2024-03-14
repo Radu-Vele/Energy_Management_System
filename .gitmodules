@@ -1,3 +1,18 @@
 [submodule "DS2023_30442_Vele_Radu-Augustin_Chat_uService"]
 	path = DS2023_30442_Vele_Radu-Augustin_Chat_uService
 	url = https://github.com/Radu-Vele/EMS_Chat_uService.git
+[submodule "DS2023_30442_Vele_Radu-Augustin_Measurements_uService"]
+	path = DS2023_30442_Vele_Radu-Augustin_Measurements_uService
+	url = https://github.com/Radu-Vele/EMS_Measurements_uService.git
+[submodule "DS2023_30442_Vele_Radu-Augustin_Device_Simulator"]
+	path = DS2023_30442_Vele_Radu-Augustin_Device_Simulator
+	url = https://github.com/Radu-Vele/EMS_Device_Simulator.git
+[submodule "DS2023_30442_Vele_Radu-Augustin_Devices_uService"]
+	path = DS2023_30442_Vele_Radu-Augustin_Devices_uService
+	url = https://github.com/Radu-Vele/EMS_Devices_uService.git
+[submodule "DS2023_30442_Vele_Radu-Augustin_Frontend"]
+	path = DS2023_30442_Vele_Radu-Augustin_Frontend
+	url = https://github.com/Radu-Vele/EMS_Front_End.git
+[submodule "DS2023_30442_Vele_Radu-Augustin_Users_uService"]
+	path = DS2023_30442_Vele_Radu-Augustin_Users_uService
+	url = https://github.com/Radu-Vele/EMS_Users_uService.git
